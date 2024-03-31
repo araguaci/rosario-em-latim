@@ -35,7 +35,7 @@ O Vaticano lançou em 2008 uma coletânea de CDs com a oração dos mistérios d
 
 Veja abaixo os mistérios transcritos para praticar com os vídeos.
 
-**ROSARIUM BEATAE MARIAE VIRGINIS**
+[**ROSARIUM BEATAE MARIAE VIRGINIS**](https://rosarioemlatim.netlify.app/)
 
 <details>
   <summary><b> Introductio ✠ </b> </summary>
@@ -158,10 +158,10 @@ V. Ora pro nobis, sancta Dei Genitrix, R. Ut digni efficiamur promissionibus Chr
 </details>
 
 ---
-**SOURCE**
+[**DEMO**](https://rosarioemlatim.netlify.app/)
 ---
 
-## Astropod | Free and Open Source Serverless Podcast
+## FROM: @Astropod | Free and Open Source Serverless Podcast
 
 ![Atropod](https://github.com/manuelernestog/manuelernestog/assets/53962116/3106bf65-37f9-427f-9b50-72d7ae22752f)
 
