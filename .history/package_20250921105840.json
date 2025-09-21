@@ -12,11 +12,6 @@
     "preview": "astro preview",
     "astro": "astro"
   },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "sharp"
-    ]
-  },
   "dependencies": {
     "@astrojs/image": "^0.17.2",
     "@astrojs/mdx": "^0.19.7",
@@ -29,7 +24,7 @@
     "dayjs": "^1.11.9",
     "marked": "^7.0.2",
     "marked-plaintext": "^0.0.2",
-    "sharp": "^0.34.4",
+    "sharp": "^0.32.1",
     "tailwindcss": "^3.4.3",
     "tailwindcss-base-font-size": "^1.0.1",
     "xml2js": "^0.6.2"

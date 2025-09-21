@@ -8,3 +8,4 @@ Diz o Senhor à Ir. Faustina:
 Seguindo os passos de Ir. Faustina, lembrem todas as almas e, em especial, aquelas afastadas de Deus e submersas no desespero, que Jesus espera-as com a sua infinita misericórdia e convida-as a mergulhar nela com total confiança.
 
 Fonte: https://www.espacojames.com.br/?cat=116&id=4771
+s
